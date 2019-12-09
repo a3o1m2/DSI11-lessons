@@ -8,7 +8,6 @@
 - Know how to assess data quality
 - Inspect data types
 - Fill missing values with `fillna`
-- Count categorical values with `.value_counts`
 
 ### Target
 - Know the difference between `.map`, `.apply`, `.applymap`  
