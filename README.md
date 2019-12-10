@@ -38,8 +38,8 @@
 | ------------- | ------------------------------------------------ | -------------------------------------------- | --------------------------------------------------- | ----------------------------------------- | ------------------------------------------ |
 | 09:00 - 10:45 |[Pandas Intro - Lesson][2-1a]|[Pandas Cleaning - Lesson][2-2a]|[Pandas Groupby - Lesson][2-3a]||||
 | 11:00 - 12:30 |[Pandas Intro - Lab][2-1b]|[Pandas Cleaning - Lab][2-2b]|[Pandas Groupby - Lesson][2-3a]||||
-| 13:30 - 15:00 |[Pandas Joins - Lesson][2-1c]|[Pandas EDA -Lesson][2-2c]|[Pandas Groupby - Lab - 1][2-3b]||||
-| 15:15 - 17:00 |[Pandas Joins - Lab][2-1d]|[Pandas EDA -Lesson][2-2c]|[Pandas Groupby - Lab 2][2-3c]||||
+| 13:30 - 15:00 |[Pandas Joins - Lesson][2-1c]|[Pandas EDA - Lesson][2-2c]|[Pandas Groupby - Lab 1][2-3b]||||
+| 15:15 - 17:00 |[Pandas Joins - Lab][2-1d]|[Pandas EDA - Lesson][2-2c]|[Pandas Groupby - Lab 2][2-3c]||||
 
 [2-1a]: ./week02/day1_intro_to_pandas/pandas-intro-lesson
 [2-1b]: ./week02/day1_intro_to_pandas/pandas-intro-lab
