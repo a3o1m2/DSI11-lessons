@@ -36,10 +36,10 @@
 
 | Session Time  | Day 1                                            | Day 2                                        | Day 3                                               | Day 4                                     | Day 5                                      |
 | ------------- | ------------------------------------------------ | -------------------------------------------- | --------------------------------------------------- | ----------------------------------------- | ------------------------------------------ |
-| 09:00 - 10:45 |[Pandas Intro - Lesson][2-1a]|[Pandas Cleaning - Lesson][2-2a]|[Pandas Groupby - Lesson][2-3a]||||
-| 11:00 - 12:30 |[Pandas Intro - Lab][2-1b]|[Pandas Cleaning - Lab][2-2b]|[Pandas Groupby - Lesson][2-3a]||||
-| 13:30 - 15:00 |[Pandas Joins - Lesson][2-1c]|[Pandas EDA - Lesson][2-2c]|[Pandas Groupby - Lab 1][2-3b]||||
-| 15:15 - 17:00 |[Pandas Joins - Lab][2-1d]|[Pandas EDA - Lesson][2-2c]|[Pandas Groupby - Lab 2][2-3c]||||
+| 09:00 - 10:45 |[Pandas Intro - Lesson][2-1a]|[Pandas Cleaning - Lesson][2-2a]|[Pandas Groupby - Lesson][2-3a]|[Pandas Review][2-4a]|||
+| 11:00 - 12:30 |[Pandas Intro - Lab][2-1b]|[Pandas Cleaning - Lab][2-2b]|[Pandas Groupby - Lesson][2-3a]|[Pandas Review][2-4a]|||
+| 13:30 - 15:00 |[Pandas Joins - Lesson][2-1c]|[Pandas EDA - Lesson][2-2c]|[Pandas Groupby - Lab 1][2-3b]|[Pandas Review - Final Lab][2-4b]|||
+| 15:15 - 17:00 |[Pandas Joins - Lab][2-1d]|[Pandas EDA - Lesson][2-2c]|[Pandas Groupby - Lab 2][2-3c]|[Pandas Review - Plotting][2-4c]|||
 
 [2-1a]: ./week02/day1_intro_to_pandas/pandas-intro-lesson
 [2-1b]: ./week02/day1_intro_to_pandas/pandas-intro-lab
@@ -53,6 +53,10 @@
 [2-3a]: ./week02/day3_pandas_grouping/pandas-grouping-lesson
 [2-3b]: ./week02/day3_pandas_grouping/pandas-grouping-lab
 [2-3c]: ./week02/day3_pandas_grouping/pandas-chipotle-lab
+
+[2-4a]: ./week02/day4_pandas_review/lab-pandas-data-munging-full-overview
+[2-4b]: ./week02/day4_pandas_review/lab-pandas-final
+[2-4c]: ./week02/day4_pandas_review/lab-pandas-plotting-reference
 
 
 
