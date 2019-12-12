@@ -36,8 +36,8 @@
 
 | Session Time  | Day 1                                            | Day 2                                        | Day 3                                               | Day 4                                     | Day 5                                      |
 | ------------- | ------------------------------------------------ | -------------------------------------------- | --------------------------------------------------- | ----------------------------------------- | ------------------------------------------ |
-| 09:00 - 10:45 |[Pandas Intro - Lesson][2-1a]|[Pandas Cleaning - Lesson][2-2a]|[Pandas Groupby - Lesson][2-3a]|[Pandas Review][2-4a]|[Probability Distributions][2-a]||
-| 11:00 - 12:30 |[Pandas Intro - Lab][2-1b]|[Pandas Cleaning - Lab][2-2b]|[Pandas Groupby - Lesson][2-3a]|[Pandas Review][2-4a]|[Probability Distributions][2-a]||
+| 09:00 - 10:45 |[Pandas Intro - Lesson][2-1a]|[Pandas Cleaning - Lesson][2-2a]|[Pandas Groupby - Lesson][2-3a]|[Pandas Review][2-4a]|[Probability Distributions][2-5a]||
+| 11:00 - 12:30 |[Pandas Intro - Lab][2-1b]|[Pandas Cleaning - Lab][2-2b]|[Pandas Groupby - Lesson][2-3a]|[Pandas Review][2-4a]|[Probability Distributions][2-5a]||
 | 13:30 - 15:00 |[Pandas Joins - Lesson][2-1c]|[Pandas EDA - Lesson][2-2c]|[Pandas Groupby - Lab 1][2-3b]|[Pandas Review - Final Lab][2-4b]|Project||
 | 15:15 - 17:00 |[Pandas Joins - Lab][2-1d]|[Pandas EDA - Lesson][2-2c]|[Pandas Groupby - Lab 2][2-3c]|[Pandas Review - Plotting][2-4c]|Project||
 
