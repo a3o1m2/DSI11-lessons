@@ -61,6 +61,20 @@
 [2-5a]: ./week02/day5_probability_distributions/probability-distributions
 
 
+## Week 3: Linear Regression Models
+
+
+| Session Time  | Day 1                                            | Day 2                                        | Day 3                                               | Day 4                                     | Day 5                                      |
+| ------------- | ------------------------------------------------ | -------------------------------------------- | --------------------------------------------------- | ----------------------------------------- | ------------------------------------------ |
+| 09:00 - 10:45 |[Intro to Modelling - Lesson][3-1a]|||||
+| 11:00 - 12:30 |[Intro to Modelling - Lesson][3-1a]|||||
+| 13:30 - 15:00 |[Simple Linear Regression - Lab][3-1c]|||||
+| 15:15 - 17:00 |[Multivariate Regression - Lab][3-1d]|||||
+
+[3-1a]: ./week03/day1_linear_regression/intro-to-modelling-lesson
+[3-1c]: ./week03/day1_linear_regression/simple-linear-regression-lab
+[3-1d]: ./week03/day1_linear_regression/multi-linear-regression-lab
+
 
 
 
