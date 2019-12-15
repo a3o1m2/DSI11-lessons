@@ -71,9 +71,9 @@
 | 13:30 - 15:00 |[Simple Linear Regression - Lab][3-1c]|||||
 | 15:15 - 17:00 |[Multivariate Regression - Lab][3-1d]|||||
 
-[3-1a]: ./week03/day1_linear_regression_intro/intro-to-modelling-lesson
-[3-1c]: ./week03/day1_linear_regression_intro/simple-linear-regression-lab
-[3-1d]: ./week03/day1_linear_regression_intro/multivariate-linear-regression-lab
+[3-1a]: ./week03/day1_linear_regression/intro-to-modelling-lesson
+[3-1c]: ./week03/day1_linear_regression/simple-linear-regression-lab
+[3-1d]: ./week03/day1_linear_regression/multivariate-linear-regression-lab
 
 
 
