@@ -73,7 +73,7 @@
 
 [3-1a]: ./week03/day1_linear_regression/intro-to-modelling-lesson
 [3-1c]: ./week03/day1_linear_regression/simple-linear-regression-lab
-[3-1d]: ./week03/day1_linear_regression/multivariate-linear-regression-lab
+[3-1d]: ./week03/day1_linear_regression/multi-linear-regression-lab
 
 
 
