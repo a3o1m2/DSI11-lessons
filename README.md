@@ -66,7 +66,7 @@
 
 | Session Time  | Day 1                                            | Day 2                                        | Day 3                                               | Day 4                                     | Day 5                                      |
 | ------------- | ------------------------------------------------ | -------------------------------------------- | --------------------------------------------------- | ----------------------------------------- | ------------------------------------------ |
-| 09:00 - 10:45 |[Intro to Modelling - Lesson][3-1a]|[Scikit-Learn Intro - Lesson][3-2a]||||
+| 09:00 - 10:45 |[Intro to Modelling - Lesson][3-1a]|[Scikit-Learn & Statsmodel Intro - Lesson][3-2a]||||
 | 11:00 - 12:30 |[Intro to Modelling - Lesson][3-1a]|[Regression Evaluation - Lab][3-2b]||||
 | 13:30 - 15:00 |[Simple Linear Regression - Lab][3-1c]|[Cross-validation - Lesson][3-2c]||||
 | 15:15 - 17:00 |[Multivariate Regression - Lab][3-1d]|[Cross-validation - Lab][3-2d]||||
@@ -75,7 +75,7 @@
 [3-1c]: ./week03/day1_linear_regression/simple-linear-regression-lab
 [3-1d]: ./week03/day1_linear_regression/multi-linear-regression-lab
 
-[3-2a]: ./week03/day2_libraries_cross_validation/scikit-learn-intro-lesson
+[3-2a]: ./week03/day2_libraries_cross_validation/scikit-learn-statsmodels-intro-lesson
 [3-2b]: ./week03/day2_libraries_cross_validation/regression-evaluation-lab
 [3-2c]: ./week03/day2_libraries_cross_validation/cross-validation-lesson
 [3-2d]: ./week03/day2_libraries_cross_validation/cross-validation-lab
