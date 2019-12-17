@@ -82,8 +82,8 @@
 
 
 [3-3a]: ./week03/day3_feature_scaling_dummies_bias_variance/feature-scaling-lesson
-[3-3b]: ./week03/day3_feature_scaling_dummies_bias_variance/dummy-variables-lesson
-[3-3c]: ./week03/day3_feature_scaling_dummies_bias_variance/bias-variance-tradeoff-lesson
+[3-3b]: ./week03/day3_feature_scaling_dummies_bias_variance/bias-variance-tradeoff-lesson
+[3-3c]: ./week03/day3_feature_scaling_dummies_bias_variance/dummy-variables-lesson
 
 
 

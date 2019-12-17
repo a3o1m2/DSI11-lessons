@@ -1,7 +1,7 @@
 <img src="http://imgur.com/1ZcRyrc.png" style="float: left; margin: 20px; height: 55px">
 
 
-# Practicing loss functions and regression metrics
+# Dummy Variables
 
 ---
 
