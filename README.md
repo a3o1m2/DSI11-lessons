@@ -66,10 +66,10 @@
 
 | Session Time  | Day 1                                            | Day 2                                        | Day 3                                               | Day 4                                     | Day 5                                      |
 | ------------- | ------------------------------------------------ | -------------------------------------------- | --------------------------------------------------- | ----------------------------------------- | ------------------------------------------ |
-| 09:00 - 10:45 |[Intro to Modelling - Lesson][3-1a]|[Scikit-Learn & Statsmodel Intro - Lesson][3-2a]||||
-| 11:00 - 12:30 |[Intro to Modelling - Lesson][3-1a]|[Regression Evaluation - Lab][3-2b]||||
-| 13:30 - 15:00 |[Simple Linear Regression - Lab][3-1c]|[Cross-validation - Lesson][3-2c]||||
-| 15:15 - 17:00 |[Multivariate Regression - Lab][3-1d]|[Cross-validation - Lab][3-2d]||||
+| 09:00 - 10:45 |[Intro to Modelling - Lesson][3-1a]|[Scikit-Learn & Statsmodel Intro - Lesson][3-2a]|[Regularization - Lesson][3-3a]|||
+| 11:00 - 12:30 |[Intro to Modelling - Lesson][3-1a]|[Regression Evaluation - Lab][3-2b]|[Regularization - Lesson][3-3a]|||
+| 13:30 - 15:00 |[Simple Linear Regression - Lab][3-1c]|[Cross-validation - Lesson][3-2c]|[Bias Variance Tradeoff - Lesson][3-3b]|||
+| 15:15 - 17:00 |[Multivariate Regression - Lab][3-1d]|[Cross-validation - Lab][3-2d]|[Dummy Variables - Lesson][3-3c]|||
 
 [3-1a]: ./week03/day1_linear_regression/intro-to-modelling-lesson
 [3-1c]: ./week03/day1_linear_regression/simple-linear-regression-lab
@@ -81,6 +81,9 @@
 [3-2d]: ./week03/day2_libraries_cross_validation/cross-validation-lab
 
 
+[3-3a]: ./week03/day3_feature_scaling_dummies_bias_variance/feature-scaling-lesson
+[3-3b]: ./week03/day3_feature_scaling_dummies_bias_variance/dummy-variables-lesson
+[3-3c]: ./week03/day3_feature_scaling_dummies_bias_variance/bias-variance-tradeoff-lesson
 
 
 
