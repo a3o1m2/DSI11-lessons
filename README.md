@@ -80,10 +80,15 @@
 [3-2c]: ./week03/day2_libraries_cross_validation/cross-validation-lesson
 [3-2d]: ./week03/day2_libraries_cross_validation/cross-validation-lab
 
-
 [3-3a]: ./week03/day3_feature_scaling_dummies_bias_variance/feature-scaling-lesson
-[3-3b]: ./week03/day3_feature_scaling_dummies_bias_variance/bias-variance-tradeoff-lesson
+[3-3b]: ./week03/day3_feature_scaling_dummies_bias_variance/bias-variance-lesson
 [3-3c]: ./week03/day3_feature_scaling_dummies_bias_variance/dummy-variables-lesson
 
+[3-4a]: ./week03/day4_regularization/regularization-lesson
+[3-4b]: ./week03/day4_regularization/regularization-lab
+
+[3-5a]: ./week03/day5_object_oriented_programming/regression-review
+[3-5b]: ./week03/day5_object_oriented_programming/object-oriented-programming-lesson
+[3-5c]: ./week03/day5_object_oriented_programming/object-oriented-programming-lab
 
 
