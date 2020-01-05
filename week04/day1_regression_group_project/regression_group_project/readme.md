@@ -32,7 +32,7 @@ In the indicated groups:
 
 ## Resources:
 
-- UCI: https://archive.ics.uci.edu/ml/datasets.html
+- UCI: https://archive.ics.uci.edu/ml/datasets.php
 
 - FiveThirtyEight: https://github.com/fivethirtyeight/data
 
