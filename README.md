@@ -91,4 +91,13 @@
 [3-5b]: ./week03/day5_object_oriented_programming/object-oriented-programming-lesson
 [3-5c]: ./week03/day5_object_oriented_programming/object-oriented-programming-lab
 
+## Week 4: Classification with kNN and Logistic Regression
 
+| Session Time  | Day 1                                            | Day 2                                        | Day 3                                               | Day 4                                     | Day 5                                      |
+| ------------- | ------------------------------------------------ | -------------------------------------------- | --------------------------------------------------- | ----------------------------------------- | ------------------------------------------ |
+| 09:00 - 10:45 |[Group Project][4-1a]|||||
+| 11:00 - 12:30 |[Group Project][4-1a]|||||
+| 13:30 - 15:00 |[Group Project][4-1a]|||||
+| 15:15 - 17:00 |[Group Project][4-1a]|||||
+
+[4-1a]: ./week04/day1_regression_group_project/regression_group_project
