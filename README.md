@@ -95,14 +95,16 @@
 
 | Session Time  | Day 1                                            | Day 2                                        | Day 3                                               | Day 4                                     | Day 5                                      |
 | ------------- | ------------------------------------------------ | -------------------------------------------- | --------------------------------------------------- | ----------------------------------------- | ------------------------------------------ |
-| 09:00 - 10:45 |[Group Project][4-1a]|[KNN - Lesson][4-2a]||||
-| 11:00 - 12:30 |[Group Project][4-1a]|[KNN - Lab][4-2b]||||
-| 13:30 - 15:00 |[Group Project][4-1a]|[Logistic Regression - Lesson][4-2c]||||
-| 15:15 - 17:00 |[Group Project][4-1a]|[Logistic Regression - Lab][4-2d]||||
+| 09:00 - 10:45 |[Group Project][4-1a]|[KNN - Lesson][4-2a]|[Classifier Evaluation - Lesson][4-3a]|||
+| 11:00 - 12:30 |[Group Project][4-1a]|[KNN - Lab][4-2b]|[Classifier Evaluation - Lesson][4-3a]|||
+| 13:30 - 15:00 |[Group Project][4-1a]|[Logistic Regression - Lesson][4-2c]|Outcomes|||
+| 15:15 - 17:00 |[Group Project][4-1a]|[Logistic Regression - Lab][4-2d]|Outcomes|||
 
 [4-1a]: ./week04/day1_regression_group_project/regression_group_project
 
 [4-2a]: ./week04/day2_knn_logistic_regression/knn-lesson
 [4-2b]: ./week04/day2_knn_logistic_regression/knn-lab
 [4-2c]: ./week04/day2_knn_logistic_regression/logistic-regression-lesson
-[4-2d]: ./week04/day2_knn_logistic_regression/logistic-regression-lab 
+[4-2d]: ./week04/day2_knn_logistic_regression/logistic-regression-lab
+
+[4-3a]: ./week04/day3_classifier_evaluation/classifier-evaluation-lesson
