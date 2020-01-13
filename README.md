@@ -116,3 +116,15 @@
 [4-5a]: ./week04/day5_gridsearch/gridsearch-lesson
 [4-5b]: ./week04/day5_gridsearch/gridsearch-lab
 [4-5c]: ./week04/day5_gridsearch/classifcation-review
+
+## Week 5: Pipelines, Tableau, Web Scraping and APIs, Natural Language Proecessing basics
+
+| Session Time  | Day 1                                            | Day 2                                        | Day 3                                               | Day 4                                     | Day 5                                      |
+| ------------- | ------------------------------------------------ | -------------------------------------------- | --------------------------------------------------- | ----------------------------------------- | ------------------------------------------ |
+| 09:00 - 10:45 |[Pipelines - Lesson][5-1a]|||||
+| 11:00 - 12:30 |[Pipelines - Lesson][5-1a]|||||
+| 13:30 - 15:00 |[Tableau Intro - Lesson][5-1c]|||||
+| 15:15 - 17:00 |[Tableau Intro - Lesson][5-1c]|||||
+
+[5-1a]: ./week05/day1_pipelines_tableau/pipelines-lesson
+[5-1c]: ./week05/day1_pipelines_tableau/tableau-intro
