@@ -122,7 +122,7 @@
 | Session Time  | Day 1                                            | Day 2                                        | Day 3                                               | Day 4                                     | Day 5                                      |
 | ------------- | ------------------------------------------------ | -------------------------------------------- | --------------------------------------------------- | ----------------------------------------- | ------------------------------------------ |
 | 09:00 - 10:45 |[Pipelines - Lesson][5-1a]|[HTML Intro][5-2a]|[Regular Expressions - Lesson][5-3a]|||
-| 11:00 - 12:30 |[Pipelines - Lesson][5-1a]|[Web API - Lesson][5-2b]|[Regular Expressions - Lesson][5-3a|||
+| 11:00 - 12:30 |[Pipelines - Lesson][5-1a]|[Web API - Lesson][5-2b]|[Regular Expressions - Lesson][5-3a]|||
 | 13:30 - 15:00 |[Tableau Intro - Lesson][5-1c]|[Web API - Lab][5-2c]|Outcomes|||
 | 15:15 - 17:00 |[Tableau Intro - Lesson][5-1c]|[Web Scraping - Lesson][5-2d]|Outcomes|||
 
