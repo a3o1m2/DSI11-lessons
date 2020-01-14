@@ -121,10 +121,15 @@
 
 | Session Time  | Day 1                                            | Day 2                                        | Day 3                                               | Day 4                                     | Day 5                                      |
 | ------------- | ------------------------------------------------ | -------------------------------------------- | --------------------------------------------------- | ----------------------------------------- | ------------------------------------------ |
-| 09:00 - 10:45 |[Pipelines - Lesson][5-1a]|||||
-| 11:00 - 12:30 |[Pipelines - Lesson][5-1a]|||||
-| 13:30 - 15:00 |[Tableau Intro - Lesson][5-1c]|||||
-| 15:15 - 17:00 |[Tableau Intro - Lesson][5-1c]|||||
+| 09:00 - 10:45 |[Pipelines - Lesson][5-1a]|[HTML Intro][5-2a]||||
+| 11:00 - 12:30 |[Pipelines - Lesson][5-1a]|[Web API - Lesson][5-2b]||||
+| 13:30 - 15:00 |[Tableau Intro - Lesson][5-1c]|[Web API - Lab][5-2c]||||
+| 15:15 - 17:00 |[Tableau Intro - Lesson][5-1c]|[Web Scraping - Lesson][5-2d]||||
 
 [5-1a]: ./week05/day1_pipelines_tableau/pipelines-lesson
 [5-1c]: ./week05/day1_pipelines_tableau/tableau-intro
+
+[5-2a]: ./week05/day2_web_scraping_and_apis/html-intro
+[5-2b]: ./week05/day2_web_scraping_and_apis/web-api
+[5-2c]: ./week05/day2_web_scraping_and_apis/web-api-lab
+[5-2d]: ./week05/day2_web_scraping_and_apis/web_scraping
