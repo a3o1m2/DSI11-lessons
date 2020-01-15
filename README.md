@@ -121,10 +121,10 @@
 
 | Session Time  | Day 1                                            | Day 2                                        | Day 3                                               | Day 4                                     | Day 5                                      |
 | ------------- | ------------------------------------------------ | -------------------------------------------- | --------------------------------------------------- | ----------------------------------------- | ------------------------------------------ |
-| 09:00 - 10:45 |[Pipelines - Lesson][5-1a]|[HTML Intro][5-2a]|[Regular Expressions - Lesson][5-3a]|||
-| 11:00 - 12:30 |[Pipelines - Lesson][5-1a]|[Web API - Lesson][5-2b]|[Regular Expressions - Lesson][5-3a]|||
-| 13:30 - 15:00 |[Tableau Intro - Lesson][5-1c]|[Web API - Lab][5-2c]|Outcomes|||
-| 15:15 - 17:00 |[Tableau Intro - Lesson][5-1c]|[Web Scraping - Lesson][5-2d]|Outcomes|||
+| 09:00 - 10:45 |[Pipelines - Lesson][5-1a]|[HTML Intro][5-2a]|[Regular Expressions - Lesson][5-3a]|[NLP Intro - Lesson][5-4a]||
+| 11:00 - 12:30 |[Pipelines - Lesson][5-1a]|[Web API - Lesson][5-2b]|[Regular Expressions - Lesson][5-3a]|[NLP Intro - Lesson][5-4a]||
+| 13:30 - 15:00 |[Tableau Intro - Lesson][5-1c]|[Web API - Lab][5-2c]|Outcomes|[NLP Intro - Lab][5-4c]||
+| 15:15 - 17:00 |[Tableau Intro - Lesson][5-1c]|[Web Scraping - Lesson][5-2d]|Outcomes|[NLP Intro - Lab][5-4c]||
 
 [5-1a]: ./week05/day1_pipelines_tableau/pipelines-lesson
 [5-1c]: ./week05/day1_pipelines_tableau/tableau-intro
@@ -135,3 +135,6 @@
 [5-2d]: ./week05/day2_web_scraping_and_apis/web_scraping
 
 [5-3a]: ./week05/day3_regular_expressions/regular-expressions-lesson
+
+[5-4a]: ./week05/day4_nlp_intro/nlp-intro-lesson
+[5-4c]: ./week05/day4_nlp_intro/nlp-intro-lab
