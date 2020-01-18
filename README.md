@@ -140,3 +140,34 @@
 [5-4c]: ./week05/day4_nlp_intro/nlp-intro-lab
 
 [5-5a]: ./week05/day5_nlp_hackathon/nlp-hackathon
+
+## Week 6: Decision Trees, Ensemble Methods, SQL
+
+| Session Time  | Day 1                                            | Day 2                                        | Day 3                                               | Day 4                                     | Day 5                                      |
+| ------------- | ------------------------------------------------ | -------------------------------------------- | --------------------------------------------------- | ----------------------------------------- | ------------------------------------------ |
+| 09:00 - 10:45 |[Decision Trees - Lesson][6-1a]|||||
+| 11:00 - 12:30 |[Decision Trees - Lab][6-1b]|||||
+| 13:30 - 15:00 |[Decision Trees - Lab][6-1b]|||||
+| 15:15 - 17:00 |[Feature Importance - Lesson][6-1d]|||||
+
+[6-1a]: ./week06/day1_decision_trees/decision-trees-lesson
+[6-1b]: ./week06/day1_decision_trees/decision-trees-lab
+[6-1d]: ./week06/day1_decision_trees/feature-importance-lesson
+
+
+[6-2a]: ./week06/day2_bagging_random_forests/bagging-lesson
+[6-2c]: ./week06/day2_bagging_random_forests/bagging-lab
+[6-2d]: ./week06/day2_bagging_random_forests/random-forests-lab
+
+
+[6-3a]: ./week06/day3_boosting/boosting-intro-lesson
+[6-3c]: ./week06/day3_boosting/boosting-from-scratch-lab
+
+
+[6-4a]: ./week06/day4_SQL/database-fundamentals-lesson
+[6-4b]: ./week06/day4_SQL/database-sql-intro-lesson
+[6-4c]: ./week06/day4_SQL/database-sql-with-pandas-lab-1
+[6-4d]: ./week06/day4_SQL/database-sql-with-pandas-lab-2
+
+[6-5a]: ./week06/day5_SQL/database-sql_commands_together-lab
+[6-5b]: ./week06/day5_SQL/database-postgresql_practice-lab
