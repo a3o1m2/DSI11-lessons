@@ -145,10 +145,10 @@
 
 | Session Time  | Day 1                                            | Day 2                                        | Day 3                                               | Day 4                                     | Day 5                                      |
 | ------------- | ------------------------------------------------ | -------------------------------------------- | --------------------------------------------------- | ----------------------------------------- | ------------------------------------------ |
-| 09:00 - 10:45 |[Decision Trees - Lesson][6-1a]|||||
-| 11:00 - 12:30 |[Decision Trees - Lab][6-1b]|||||
-| 13:30 - 15:00 |[Decision Trees - Lab][6-1b]|||||
-| 15:15 - 17:00 |[Feature Importance - Lesson][6-1d]|||||
+| 09:00 - 10:45 |[Decision Trees - Lesson][6-1a]|[Bagging - Lesson][6-2a]||||
+| 11:00 - 12:30 |[Decision Trees - Lab][6-1b]|[Bagging - Lesson][6-2a]||||
+| 13:30 - 15:00 |[Decision Trees - Lab][6-1b]|[Bagging - Lab][6-2c]||||
+| 15:15 - 17:00 |[Feature Importance - Lesson][6-1d]|[Random forests - Lab][6-2d]||||
 
 [6-1a]: ./week06/day1_decision_trees/decision-trees-lesson
 [6-1b]: ./week06/day1_decision_trees/decision-trees-lab
