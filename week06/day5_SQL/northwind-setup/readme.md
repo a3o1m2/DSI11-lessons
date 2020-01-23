@@ -1,0 +1,2 @@
+psql -f northwind.sql
+
