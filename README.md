@@ -145,10 +145,10 @@
 
 | Session Time  | Day 1                                            | Day 2                                        | Day 3                                               | Day 4                                     | Day 5                                      |
 | ------------- | ------------------------------------------------ | -------------------------------------------- | --------------------------------------------------- | ----------------------------------------- | ------------------------------------------ |
-| 09:00 - 10:45 |[Decision Trees - Lesson][6-1a]|[Bagging - Lesson][6-2a]|[Boosting Intro - Lesson][6-3a]|[Database fundamentals - Lesson][6-4a]||
-| 11:00 - 12:30 |[Decision Trees - Lab][6-1b]|[Bagging - Lesson][6-2a]|[Boosting Intro - Lesson][6-3a]|[SQL Intro - Lesson][6-4b]||
-| 13:30 - 15:00 |[Decision Trees - Lab][6-1b]|[Bagging - Lab][6-2c]|[Boosting from Scratch - Lab][6-3c]|[SQL with Pandas - Lab 1][6-4c]||
-| 15:15 - 17:00 |[Feature Importance - Lesson][6-1d]|[Random forests - Lab][6-2d]|[Boosting from Scratch - Lab][6-3c]|[SQL with Pandas - Lab 2][6-4d]||
+| 09:00 - 10:45 |[Decision Trees - Lesson][6-1a]|[Bagging - Lesson][6-2a]|[Boosting Intro - Lesson][6-3a]|[Database fundamentals - Lesson][6-4a]|[Postgresql - Lab 1][6-5a]|
+| 11:00 - 12:30 |[Decision Trees - Lab][6-1b]|[Bagging - Lesson][6-2a]|[Boosting Intro - Lesson][6-3a]|[SQL Intro - Lesson][6-4b]|[Postgresql - Lab 2][6-5b]|
+| 13:30 - 15:00 |[Decision Trees - Lab][6-1b]|[Bagging - Lab][6-2c]|[Boosting from Scratch - Lab][6-3c]|[SQL with Pandas - Lab 1][6-4c]|Project|
+| 15:15 - 17:00 |[Feature Importance - Lesson][6-1d]|[Random forests - Lab][6-2d]|[Boosting from Scratch - Lab][6-3c]|[SQL with Pandas - Lab 2][6-4d]|Project|
 
 [6-1a]: ./week06/day1_decision_trees/decision-trees-lesson
 [6-1b]: ./week06/day1_decision_trees/decision-trees-lab
