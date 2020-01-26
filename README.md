@@ -171,3 +171,33 @@
 
 [6-5a]: ./week06/day5_SQL/database-sql_commands_together-lab
 [6-5b]: ./week06/day5_SQL/database-postgresql_practice-lab
+
+
+## Week 7: Unsupervised Learning: Clustering and Principal Component Analysis
+
+| Session Time  | Day 1                                            | Day 2                                        | Day 3                                               | Day 4                                     | Day 5                                      |
+| ------------- | ------------------------------------------------ | -------------------------------------------- | --------------------------------------------------- | ----------------------------------------- | ------------------------------------------ |
+| 09:00 - 10:45 |[K-Means - Lesson][7-1a]|||||
+| 11:00 - 12:30 |[Cluster Evaluation - Lesson][7-1b]|||||
+| 13:30 - 15:00 |[Cluster Evaluation - Lab 1][7-1c]|||||
+| 15:15 - 17:00 |[Cluster Evaluation - Lab 2][7-1d]|||||
+
+[7-1a]: ./week07/day1_kmeans_clusering/k-means-lesson
+[7-1b]: ./week07/day1_kmeans_clusering/cluster-evaluation-lesson
+[7-1c]: ./week07/day1_kmeans_clusering/cluster-evaluation-lab-1
+[7-1d]: ./week07/day1_kmeans_clusering/cluster-evaluation-lab-2
+
+[7-2a]: ./week07/day2_principal_component_analysis/pca-intro-lesson
+[7-2c]: ./week07/day2_principal_component_analysis/pca-intro-lab
+[7-2d]: ./week07/day2_principal_component_analysis/pca-visualization-lab
+
+[7-3a]: ./week07/day3_hierarchical_clustering/hierarchical-clustering-lesson
+[7-3b]: ./week07/day3_hierarchical_clustering/hierarchical-clustering-lab
+[7-3c]: ./week07/day3_hierarchical_clustering/pca-faces-lab
+
+[7-4a]: ./week07//day4_dbscan_clustering/dbscan-intro-lesson
+[7-4b]: ./week07/day4_dbscan_clustering/clustering-labs
+[7-4c]: ./week07/day4_dbscan_clustering/python-environment-setup
+
+[7-5a]: ./week07/day5_sentiment_analysis/sentiment-analysis-lesson
+[7-5b]: ./week07/day5_sentiment_analysis/sentiment-analysis-lab
