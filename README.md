@@ -177,10 +177,10 @@
 
 | Session Time  | Day 1                                            | Day 2                                        | Day 3                                               | Day 4                                     | Day 5                                      |
 | ------------- | ------------------------------------------------ | -------------------------------------------- | --------------------------------------------------- | ----------------------------------------- | ------------------------------------------ |
-| 09:00 - 10:45 |[K-Means - Lesson][7-1a]|||||
-| 11:00 - 12:30 |[Cluster Evaluation - Lesson][7-1b]|||||
-| 13:30 - 15:00 |[Cluster Evaluation - Lab 1][7-1c]|||||
-| 15:15 - 17:00 |[Cluster Evaluation - Lab 2][7-1d]|||||
+| 09:00 - 10:45 |[K-Means - Lesson][7-1a]|[Principal Component Analysis - Lesson][7-2a]||||
+| 11:00 - 12:30 |[Cluster Evaluation - Lesson][7-1b]|[Principal Component Analysis - Lesson][7-2a]||||
+| 13:30 - 15:00 |[Cluster Evaluation - Lab 1][7-1c]|[Principal Component Analysis - Lab][7-2c]||||
+| 15:15 - 17:00 |[Cluster Evaluation - Lab 2][7-1d]|[PCA Visualization - Lab][7-2d]||||
 
 [7-1a]: ./week07/day1_kmeans_clusering/k-means-lesson
 [7-1b]: ./week07/day1_kmeans_clusering/cluster-evaluation-lesson
