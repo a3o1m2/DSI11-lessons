@@ -199,5 +199,5 @@
 [7-4b]: ./week07/day4_dbscan_clustering/clustering-labs
 [7-4c]: ./week07/day4_dbscan_clustering/python-environment-setup
 
-[7-5a]: ./week07/day5_sentiment_analysis/sentiment-analysis-lesson
-[7-5b]: ./week07/day5_sentiment_analysis/sentiment-analysis-lab
+[7-5a]: ./week07/day5_nlp_sentiment_analysis/sentiment-analysis-lesson
+[7-5b]: ./week07/day5_nlp_sentiment_analysis/sentiment-analysis-lab
