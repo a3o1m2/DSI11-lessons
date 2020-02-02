@@ -15,14 +15,14 @@
 - Hypothesis Testing
   - [Video intro 1](https://www.youtube.com/watch?v=N984XGLjQfs&feature=youtu.be)
   - [Video intro 2](https://www.youtube.com/watch?v=KTFm7El1NBs&feature=youtu.be)
-- Statsmodels Intro
-  - [Getting started](https://www.statsmodels.org/stable/gettingstarted.html)
-
-## Wednesday
-
 - Bootstrapping
   - [Video intro 1](https://www.youtube.com/watch?v=STGGniMV0jg&feature=youtu.be)  
   - [Video intro 2](https://www.youtube.com/watch?v=655X9eZGxls&feature=youtu.be)
+
+## Wednesday
+
+- Statsmodels Intro
+  - [Getting started](https://www.statsmodels.org/stable/gettingstarted.html)
 - Repetition of Bayes' Theorem
   - Have a look at the pre-course material again
   - [Visualizing Bayes' Theorem](https://oscarbonilla.com/2009/05/visualizing-bayes-theorem/)
