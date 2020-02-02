@@ -177,10 +177,10 @@
 
 | Session Time  | Day 1                                            | Day 2                                        | Day 3                                               | Day 4                                     | Day 5                                      |
 | ------------- | ------------------------------------------------ | -------------------------------------------- | --------------------------------------------------- | ----------------------------------------- | ------------------------------------------ |
-| 09:00 - 10:45 |[K-Means - Lesson][7-1a]|[Principal Component Analysis - Lesson][7-2a]|[Hierarchical Clustering - Lesson][7-3a]|[DBSCAN Clustering - Lesson][7-4a]||
-| 11:00 - 12:30 |[Cluster Evaluation - Lesson][7-1b]|[Principal Component Analysis - Lesson][7-2a]|[Hierarchical Clustering - Lab][7-3b]|[DBSCAN Clustering - Lab][7-4b]||
-| 13:30 - 15:00 |[Cluster Evaluation - Lab 1][7-1c]|[Principal Component Analysis - Lab][7-2c]|[PCA Faces - Lab][7-3c]|[DBSCAN Clustering - Lab][7-4b]||
-| 15:15 - 17:00 |[Cluster Evaluation - Lab 2][7-1d]|[PCA Visualization - Lab][7-2d]|[PCA Faces - Lab][7-3c]|[Python Environment Setup][7-4c]||
+| 09:00 - 10:45 |[K-Means - Lesson][7-1a]|[Principal Component Analysis - Lesson][7-2a]|[Hierarchical Clustering - Lesson][7-3a]|[DBSCAN Clustering - Lesson][7-4a]|[Sentiment Analysis - Lesson][7-5a]|
+| 11:00 - 12:30 |[Cluster Evaluation - Lesson][7-1b]|[Principal Component Analysis - Lesson][7-2a]|[Hierarchical Clustering - Lab][7-3b]|[DBSCAN Clustering - Lab][7-4b]|[Sentiment Analysis - Lab][7-5b]|
+| 13:30 - 15:00 |[Cluster Evaluation - Lab 1][7-1c]|[Principal Component Analysis - Lab][7-2c]|[PCA Faces - Lab][7-3c]|[DBSCAN Clustering - Lab][7-4b]|Project|
+| 15:15 - 17:00 |[Cluster Evaluation - Lab 2][7-1d]|[PCA Visualization - Lab][7-2d]|[PCA Faces - Lab][7-3c]|[Python Environment Setup][7-4c]|Project|
 
 [7-1a]: ./week07/day1_kmeans_clusering/k-means-lesson
 [7-1b]: ./week07/day1_kmeans_clusering/cluster-evaluation-lesson
@@ -199,5 +199,5 @@
 [7-4b]: ./week07/day4_dbscan_clustering/clustering-labs
 [7-4c]: ./week07/day4_dbscan_clustering/python-environment-setup
 
-[7-5a]: ./week07/day5_sentiment_analysis/sentiment-analysis-lesson
-[7-5b]: ./week07/day5_sentiment_analysis/sentiment-analysis-lab
+[7-5a]: ./week07/day5_nlp_sentiment_analysis/sentiment-analysis-lesson
+[7-5b]: ./week07/day5_nlp_sentiment_analysis/sentiment-analysis-lab
