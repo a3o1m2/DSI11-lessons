@@ -177,10 +177,10 @@
 
 | Session Time  | Day 1                                            | Day 2                                        | Day 3                                               | Day 4                                     | Day 5                                      |
 | ------------- | ------------------------------------------------ | -------------------------------------------- | --------------------------------------------------- | ----------------------------------------- | ------------------------------------------ |
-| 09:00 - 10:45 |[K-Means - Lesson][7-1a]|[Principal Component Analysis - Lesson][7-2a]|[Hierarchical Clustering - Lesson][7-3a]|[DBSCAN Clustering - Lesson][7-4a]||
-| 11:00 - 12:30 |[Cluster Evaluation - Lesson][7-1b]|[Principal Component Analysis - Lesson][7-2a]|[Hierarchical Clustering - Lab][7-3b]|[DBSCAN Clustering - Lab][7-4b]||
-| 13:30 - 15:00 |[Cluster Evaluation - Lab 1][7-1c]|[Principal Component Analysis - Lab][7-2c]|[PCA Faces - Lab][7-3c]|[DBSCAN Clustering - Lab][7-4b]||
-| 15:15 - 17:00 |[Cluster Evaluation - Lab 2][7-1d]|[PCA Visualization - Lab][7-2d]|[PCA Faces - Lab][7-3c]|[Python Environment Setup][7-4c]||
+| 09:00 - 10:45 |[K-Means - Lesson][7-1a]|[Principal Component Analysis - Lesson][7-2a]|[Hierarchical Clustering - Lesson][7-3a]|[DBSCAN Clustering - Lesson][7-4a]|[Sentiment Analysis - Lesson][7-5a]|
+| 11:00 - 12:30 |[Cluster Evaluation - Lesson][7-1b]|[Principal Component Analysis - Lesson][7-2a]|[Hierarchical Clustering - Lab][7-3b]|[DBSCAN Clustering - Lab][7-4b]|[Sentiment Analysis - Lab][7-5b]|
+| 13:30 - 15:00 |[Cluster Evaluation - Lab 1][7-1c]|[Principal Component Analysis - Lab][7-2c]|[PCA Faces - Lab][7-3c]|[DBSCAN Clustering - Lab][7-4b]|Project|
+| 15:15 - 17:00 |[Cluster Evaluation - Lab 2][7-1d]|[PCA Visualization - Lab][7-2d]|[PCA Faces - Lab][7-3c]|[Python Environment Setup][7-4c]|Project|
 
 [7-1a]: ./week07/day1_kmeans_clusering/k-means-lesson
 [7-1b]: ./week07/day1_kmeans_clusering/cluster-evaluation-lesson
@@ -199,5 +199,34 @@
 [7-4b]: ./week07/day4_dbscan_clustering/clustering-labs
 [7-4c]: ./week07/day4_dbscan_clustering/python-environment-setup
 
-[7-5a]: ./week07/day5_sentiment_analysis/sentiment-analysis-lesson
-[7-5b]: ./week07/day5_sentiment_analysis/sentiment-analysis-lab
+[7-5a]: ./week07/day5_nlp_sentiment_analysis/sentiment-analysis-lesson
+[7-5b]: ./week07/day5_nlp_sentiment_analysis/sentiment-analysis-lab
+
+
+## Week 8: Frequentist and Bayesian Statistics
+
+| Session Time  | Day 1                                            | Day 2                                        | Day 3                                               | Day 4                                     | Day 5                                      |
+| ------------- | ------------------------------------------------ | -------------------------------------------- | --------------------------------------------------- | ----------------------------------------- | ------------------------------------------ |
+| 09:00 - 10:45 |Capstone Idea Presentations|||||
+| 11:00 - 12:30 |Capstone Idea Presentations|||||
+| 13:30 - 15:00 |Capstone Idea Presentations|||||
+| 15:15 - 17:00 |Capstone Idea Presentations|||||
+
+[8-1d]: ./week08/day1_clustering_comparison/battle-of-clusterers-lab
+
+[8-2a]: ./week08/day2_confidence_intervals_hypothesis_testing/confidence-intervals-lesson
+[8-2b]: ./week08/day2_confidence_intervals_hypothesis_testing/hypothesis-testing-lesson
+[8-2c]: ./week08/day2_confidence_intervals_hypothesis_testing/hypothesis-testing-lab
+[8-2d]: ./week08/day2_confidence_intervals_hypothesis_testing/statsmodels-intro-lesson
+
+[8-3a]: ./week08/day3_bootstrapping_bayes_rule/bootstrapping-lesson
+[8-3c]: ./week08/day3_bootstrapping_bayes_rule/bayes-rule-lesson
+[8-3d]: ./week08/day3_bootstrapping_bayes_rule/monty-hall-lab
+
+[8-4a]: ./week08/day4_naive_bayes/naive-bayes-lesson
+[8-4b]: ./week08/day4_naive_bayes/naive-bayes-lab-1
+[8-4c]: ./week08/day4_naive_bayes/naive-bayes-lab-2
+
+[8-5a]: ./week08/day5_beta_binomial_model/bayesian-frequentist-comparison
+[8-5b]: ./week08/day5_beta_binomial_model/beta-binomial-model-lesson
+[8-5c]: ./week08/day5_beta_binomial_model/beta-binomial-model-lab
