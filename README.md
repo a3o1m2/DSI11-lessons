@@ -217,7 +217,7 @@
 [8-2a]: ./week08/day2_confidence_intervals_hypothesis_testing/confidence-intervals-lesson
 [8-2b]: ./week08/day2_confidence_intervals_hypothesis_testing/hypothesis-testing-lesson
 [8-2c]: ./week08/day2_confidence_intervals_hypothesis_testing/hypothesis-testing-lab
-[8-3a]: ./week08/day2_confidence_intervals_hypothesis_testing/bootstrapping-lesson
+[8-2d]: ./week08/day2_confidence_intervals_hypothesis_testing/bootstrapping-lesson
 
 [8-3a]: ./week08/day3_statsmodels_bayes_rule/statsmodels-intro-lesson
 [8-3c]: ./week08/day3_statsmodels_bayes_rule/bayes-rule-lesson
