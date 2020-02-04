@@ -207,21 +207,21 @@
 
 | Session Time  | Day 1                                            | Day 2                                        | Day 3                                               | Day 4                                     | Day 5                                      |
 | ------------- | ------------------------------------------------ | -------------------------------------------- | --------------------------------------------------- | ----------------------------------------- | ------------------------------------------ |
-| 09:00 - 10:45 |Capstone Idea Presentations|||||
-| 11:00 - 12:30 |Capstone Idea Presentations|||||
-| 13:30 - 15:00 |Capstone Idea Presentations|||||
-| 15:15 - 17:00 |Capstone Idea Presentations|||||
+| 09:00 - 10:45 |Capstone Idea Presentations|[Confidence Intervals - Lesson][8-2a]||||
+| 11:00 - 12:30 |Capstone Idea Presentations|[Hypothesis Testing - Lesson][8-2b]||||
+| 13:30 - 15:00 |Capstone Idea Presentations|[Hypothesis Testing - Lab][8-2c]||||
+| 15:15 - 17:00 |Capstone Idea Presentations|[Bootstrapping - Lesson][8-2d]||||
 
 [8-1d]: ./week08/day1_clustering_comparison/battle-of-clusterers-lab
 
 [8-2a]: ./week08/day2_confidence_intervals_hypothesis_testing/confidence-intervals-lesson
 [8-2b]: ./week08/day2_confidence_intervals_hypothesis_testing/hypothesis-testing-lesson
 [8-2c]: ./week08/day2_confidence_intervals_hypothesis_testing/hypothesis-testing-lab
-[8-2d]: ./week08/day2_confidence_intervals_hypothesis_testing/statsmodels-intro-lesson
+[8-2d]: ./week08/day2_confidence_intervals_hypothesis_testing/bootstrapping-lesson
 
-[8-3a]: ./week08/day3_bootstrapping_bayes_rule/bootstrapping-lesson
-[8-3c]: ./week08/day3_bootstrapping_bayes_rule/bayes-rule-lesson
-[8-3d]: ./week08/day3_bootstrapping_bayes_rule/monty-hall-lab
+[8-3a]: ./week08/day3_statsmodels_bayes_rule/statsmodels-intro-lesson
+[8-3c]: ./week08/day3_statsmodels_bayes_rule/bayes-rule-lesson
+[8-3d]: ./week08/day3_statsmodels_bayes_rule/monty-hall-lab
 
 [8-4a]: ./week08/day4_naive_bayes/naive-bayes-lesson
 [8-4b]: ./week08/day4_naive_bayes/naive-bayes-lab-1
