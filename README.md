@@ -207,10 +207,10 @@
 
 | Session Time  | Day 1                                            | Day 2                                        | Day 3                                               | Day 4                                     | Day 5                                      |
 | ------------- | ------------------------------------------------ | -------------------------------------------- | --------------------------------------------------- | ----------------------------------------- | ------------------------------------------ |
-| 09:00 - 10:45 |Capstone Idea Presentations|[Confidence Intervals - Lesson][8-2a]|[Bootstrapping - Lesson][8-2d]|||
-| 11:00 - 12:30 |Capstone Idea Presentations|[Hypothesis Testing - Lesson][8-2b]|[Statsmodels Intro - Lesson][8-3a]|||
-| 13:30 - 15:00 |Capstone Idea Presentations|[Hypothesis Testing - Lab][8-2c]|[Bayes Rule - Lab][8-3c]|||
-| 15:15 - 17:00 |Capstone Idea Presentations|[Bootstrapping - Lesson][8-2d]|[Monty Hall - Lab][8-3d]|||
+| 09:00 - 10:45 |Capstone Idea Presentations|[Confidence Intervals - Lesson][8-2a]|[Bootstrapping - Lesson][8-2d]|[Bayes Rule - Lab][8-3c]||
+| 11:00 - 12:30 |Capstone Idea Presentations|[Hypothesis Testing - Lesson][8-2b]|[Statsmodels Intro - Lesson][8-3a]|[Monty Hall - Lab][8-3d]||
+| 13:30 - 15:00 |Capstone Idea Presentations|[Hypothesis Testing - Lab][8-2c]|[Bayes Rule - Lab][8-3c]|[Naive Bayes - Lesson][8-4a]||
+| 15:15 - 17:00 |Capstone Idea Presentations|[Bootstrapping - Lesson][8-2d]|[Monty Hall - Lab][8-3d]|[Naive Bayes - Lab 1][8-4b]||
 
 [8-1d]: ./week08/day1_clustering_comparison/battle-of-clusterers-lab
 
