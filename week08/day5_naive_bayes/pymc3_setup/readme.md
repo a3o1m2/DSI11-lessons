@@ -13,7 +13,7 @@ If you already created an environment callec `pymc3_env`, run the following, oth
 continue with the next step:
 
 ```
-conda remove -n pymc3_env
+conda remove -n pymc3_env --all
 ```
 
 I stored the environment's package information in an yml-file in this folder with
