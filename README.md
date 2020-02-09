@@ -239,10 +239,10 @@
 | 13:30 - 15:00 |[Pymc3 Intro - Lesson][9-1c]|||||
 | 15:15 - 17:00 |[Bayesian AB Testing - Lab][9-1d]|||||
 
-[9-1a]: ./week08/day5_beta_binomial_model/bayesian-frequentist-comparison
-[9-1b]: ./week08/day5_beta_binomial_model/beta-binomial-model-lesson-lab
-[9-1c]: ./week09/day1_pymc3/beta-binomial-pymc3
-[9-1d]: ./week09/day1_pymc3/pymc3-ab-testing-lab
+[9-1a]: ./week09/day1_beta_binomial_model/bayesian-frequentist-comparison
+[9-1b]: ./week09/day1_beta_binomial_model/beta-binomial-model-lesson-lab
+[9-1c]: ./week09/day1_beta_binomial_model/beta-binomial-pymc3
+[9-1d]: ./week09/day1_beta_binomial_model/pymc3-ab-testing-lab
 
 [9-2a]: ./week09/day2_pymc3/pymc3-hypothesis-testing-regression
 [9-2b]: ./week09/day2_pymc3/pymc3-lab
