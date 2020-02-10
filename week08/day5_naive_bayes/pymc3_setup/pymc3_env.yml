@@ -64,5 +64,5 @@ dependencies:
     - traitlets==4.3.3
     - wcwidth==0.1.8
     - xarray==0.15.0
-prefix: /opt/anaconda3/envs/pymc3_env
+prefix: /Users/Noah/anaconda3/envs/pymc3_env
 
