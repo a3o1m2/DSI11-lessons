@@ -246,14 +246,17 @@
 
 [9-2a]: ./week09/day2_pymc3/pymc3-hypothesis-testing-regression
 [9-2b]: ./week09/day2_pymc3/pymc3-lab
-[9-2c]: ./week09/day2_timeseries_intro/timeseries-intro-lesson
-[9-2d]: ./week09/day2_timeseries_intro/timeseries-datetime-lesson
+[9-2c]: ./week09/day2_pymc3/timeseries-intro-lesson
+[9-2d]: ./week09/day2_pymc3/timeseries-datetime-lesson
 
-[9-3a]: ./week09/day2_timeseries_intro/timeseries-resampling-lab
-[9-3b]: ./week09/day2_timeseries_intro/timeseries-model-fitting-lab
+[9-3a]: ./week09/day3_timeseries_basics/timeseries-resampling-lab
+[9-3b]: ./week09/day3_timeseries_basics/timeseries-model-fitting-lab
 
-[9-3c]: ./week09/day3_autocorrelations/autocorrelations-lesson
+[9-3c]: ./week09/day3_timeseries_basics/autocorrelations-lesson
 
 [9-4a]: ./week09/day4_arima_models/arima-models-lesson
 [9-4b]: ./week09/day4_arima_models/arima-models-lab
-[9-4c]: ./week09/day5_arima_model_fitting/arima-models-lab-2
+[9-4c]: ./week09/day4_arima_models/arima-models-lab-2
+
+[9-5a]: ./week09/day5_sarima_models/sarima-lesson
+[9-5b]: ./week09/day5_sarima_models/sarima-lab
