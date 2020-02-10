@@ -234,10 +234,10 @@
 
 | Session Time  | Day 1                                            | Day 2                                        | Day 3                                               | Day 4                                     | Day 5                                      |
 | ------------- | ------------------------------------------------ | -------------------------------------------- | --------------------------------------------------- | ----------------------------------------- | ------------------------------------------ |
-| 09:00 - 10:45 |[Bayesian Frequentist Comparison - Lesson][9-1a]|||||
-| 11:00 - 12:30 |[Beta Binomial Model - Lesson/Lab][9-1b]|||||
-| 13:30 - 15:00 |[Pymc3 Intro - Lesson][9-1c]|||||
-| 15:15 - 17:00 |[Bayesian AB Testing - Lab][9-1d]|||||
+| 09:00 - 10:45 |[Bayesian Frequentist Comparison - Lesson][9-1a]|[Pymc3 Hypothesis Testing and Regression - Lesson][9-2a]||||
+| 11:00 - 12:30 |[Beta Binomial Model - Lesson/Lab][9-1b]|[Pymc3 Hypothesis Testing and Regression - Lab][9-2b]||||
+| 13:30 - 15:00 |[Pymc3 Intro - Lesson][9-1c]|[Timeseries Intro - Lesson][9-2c]||||
+| 15:15 - 17:00 |[Bayesian AB Testing - Lab][9-1d]|[Pandas datetime - Lab][9-2d]||||
 
 [9-1a]: ./week09/day1_beta_binomial_model/bayesian-frequentist-comparison
 [9-1b]: ./week09/day1_beta_binomial_model/beta-binomial-model-lesson-lab
