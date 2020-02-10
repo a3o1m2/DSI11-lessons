@@ -230,8 +230,30 @@
 [8-5a]: ./week08/day5_naive_bayes/pymc3_setup
 [8-5b]: ./week08/day5_naive_bayes/naive-bayes-lab-2
 
+## Week 9: Bayesian Modeling, Timeseries models
 
+| Session Time  | Day 1                                            | Day 2                                        | Day 3                                               | Day 4                                     | Day 5                                      |
+| ------------- | ------------------------------------------------ | -------------------------------------------- | --------------------------------------------------- | ----------------------------------------- | ------------------------------------------ |
+| 09:00 - 10:45 |[Bayesian Frequentist Comparison - Lesson][9-1a]|||||
+| 11:00 - 12:30 |[Beta Binomial Model - Lesson/Lab][9-1b]|||||
+| 13:30 - 15:00 |[Pymc3 Intro - Lesson][9-1c]|||||
+| 15:15 - 17:00 |[Bayesian AB Testing - Lab][9-1d]|||||
 
-[9-1a]: ./week08/day5_beta_binomial_model/bayesian-frequentist-comparison
-[9-1b]: ./week08/day5_beta_binomial_model/beta-binomial-model-lesson
-[9-1c]: ./week08/day5_beta_binomial_model/beta-binomial-model-lab
+[9-1a]: ./week09/day1_beta_binomial_model/bayesian-frequentist-comparison
+[9-1b]: ./week09/day1_beta_binomial_model/beta-binomial-model-lesson-lab
+[9-1c]: ./week09/day1_beta_binomial_model/beta-binomial-pymc3
+[9-1d]: ./week09/day1_beta_binomial_model/pymc3-ab-testing-lab
+
+[9-2a]: ./week09/day2_pymc3/pymc3-hypothesis-testing-regression
+[9-2b]: ./week09/day2_pymc3/pymc3-lab
+[9-2c]: ./week09/day2_timeseries_intro/timeseries-intro-lesson
+[9-2d]: ./week09/day2_timeseries_intro/timeseries-datetime-lesson
+
+[9-3a]: ./week09/day2_timeseries_intro/timeseries-resampling-lab
+[9-3b]: ./week09/day2_timeseries_intro/timeseries-model-fitting-lab
+
+[9-3c]: ./week09/day3_autocorrelations/autocorrelations-lesson
+
+[9-4a]: ./week09/day4_arima_models/arima-models-lesson
+[9-4b]: ./week09/day4_arima_models/arima-models-lab
+[9-4c]: ./week09/day5_arima_model_fitting/arima-models-lab-2
