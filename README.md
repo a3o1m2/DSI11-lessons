@@ -234,10 +234,10 @@
 
 | Session Time  | Day 1                                            | Day 2                                        | Day 3                                               | Day 4                                     | Day 5                                      |
 | ------------- | ------------------------------------------------ | -------------------------------------------- | --------------------------------------------------- | ----------------------------------------- | ------------------------------------------ |
-| 09:00 - 10:45 |[Bayesian Frequentist Comparison - Lesson][9-1a]|||||
-| 11:00 - 12:30 |[Beta Binomial Model - Lesson/Lab][9-1b]|||||
-| 13:30 - 15:00 |[Pymc3 Intro - Lesson][9-1c]|||||
-| 15:15 - 17:00 |[Bayesian AB Testing - Lab][9-1d]|||||
+| 09:00 - 10:45 |[Bayesian Frequentist Comparison - Lesson][9-1a]|[Pymc3 Hypothesis Testing and Regression - Lesson][9-2a]||||
+| 11:00 - 12:30 |[Beta Binomial Model - Lesson/Lab][9-1b]|[Pymc3 Hypothesis Testing and Regression - Lab][9-2b]||||
+| 13:30 - 15:00 |[Pymc3 Intro - Lesson][9-1c]|[Timeseries Intro - Lesson][9-2c]||||
+| 15:15 - 17:00 |[Bayesian AB Testing - Lab][9-1d]|[Pandas datetime - Lab][9-2d]||||
 
 [9-1a]: ./week09/day1_beta_binomial_model/bayesian-frequentist-comparison
 [9-1b]: ./week09/day1_beta_binomial_model/beta-binomial-model-lesson-lab
@@ -246,14 +246,17 @@
 
 [9-2a]: ./week09/day2_pymc3/pymc3-hypothesis-testing-regression
 [9-2b]: ./week09/day2_pymc3/pymc3-lab
-[9-2c]: ./week09/day2_timeseries_intro/timeseries-intro-lesson
-[9-2d]: ./week09/day2_timeseries_intro/timeseries-datetime-lesson
+[9-2c]: ./week09/day2_pymc3/timeseries-intro-lesson
+[9-2d]: ./week09/day2_pymc3/timeseries-datetime-lesson
 
-[9-3a]: ./week09/day2_timeseries_intro/timeseries-resampling-lab
-[9-3b]: ./week09/day2_timeseries_intro/timeseries-model-fitting-lab
+[9-3a]: ./week09/day3_timeseries_basics/timeseries-resampling-lab
+[9-3b]: ./week09/day3_timeseries_basics/timeseries-model-fitting-lab
 
-[9-3c]: ./week09/day3_autocorrelations/autocorrelations-lesson
+[9-3c]: ./week09/day3_timeseries_basics/autocorrelations-lesson
 
 [9-4a]: ./week09/day4_arima_models/arima-models-lesson
 [9-4b]: ./week09/day4_arima_models/arima-models-lab
-[9-4c]: ./week09/day5_arima_model_fitting/arima-models-lab-2
+[9-4c]: ./week09/day4_arima_models/arima-models-lab-2
+
+[9-5a]: ./week09/day5_sarima_models/sarima-lesson
+[9-5b]: ./week09/day5_sarima_models/sarima-lab
