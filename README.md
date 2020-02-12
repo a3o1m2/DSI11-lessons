@@ -255,7 +255,7 @@
 [9-3d]: ./week09/day3_timeseries_basics/autocorrelations-lab
 
 [9-4a]: ./week09/day4_arima_models/arima-models-lesson
-[9-4b]: ./week09/day4_arima_models/arima-models-lab
+[9-4b]: ./week09/day4_arima_models/arima-models-lab-1
 [9-4c]: ./week09/day4_arima_models/arima-models-lab-2
 
 [9-5a]: ./week09/day5_sarima_models/sarima-lesson
