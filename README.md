@@ -234,10 +234,10 @@
 
 | Session Time  | Day 1                                            | Day 2                                        | Day 3                                               | Day 4                                     | Day 5                                      |
 | ------------- | ------------------------------------------------ | -------------------------------------------- | --------------------------------------------------- | ----------------------------------------- | ------------------------------------------ |
-| 09:00 - 10:45 |[Bayesian Frequentist Comparison - Lesson][9-1a]|[Pymc3 Hypothesis Testing and Regression - Lesson][9-2a]|[Timeseries Resampling - Lab][9-3a]|||
-| 11:00 - 12:30 |[Beta Binomial Model - Lesson/Lab][9-1b]|[Pymc3 Hypothesis Testing and Regression - Lab][9-2b]|[Timeseries Model Fitting - Lab][9-3b]|||
-| 13:30 - 15:00 |[Pymc3 Intro - Lesson][9-1c]|[Timeseries Intro - Lesson][9-2c]|[Timeseries Autocorrelations - Lesson][9-3c]|||
-| 15:15 - 17:00 |[Bayesian AB Testing - Lab][9-1d]|[Pandas datetime - Lab][9-2d]|[Timeseries Autocorrelations - Lab][9-3d]|||
+| 09:00 - 10:45 |[Bayesian Frequentist Comparison - Lesson][9-1a]|[Pymc3 Hypothesis Testing and Regression - Lesson][9-2a]|[Timeseries Resampling - Lab][9-3a]|[ARIMA Models - Lesson][9-4a]||
+| 11:00 - 12:30 |[Beta Binomial Model - Lesson/Lab][9-1b]|[Pymc3 Hypothesis Testing and Regression - Lab][9-2b]|[Timeseries Model Fitting - Lab][9-3b]|[ARIMA Models - Lesson][9-4a]||
+| 13:30 - 15:00 |[Pymc3 Intro - Lesson][9-1c]|[Timeseries Intro - Lesson][9-2c]|[Timeseries Autocorrelations - Lesson][9-3c]|[ARIMA Models - Lab 1][9-4b]||
+| 15:15 - 17:00 |[Bayesian AB Testing - Lab][9-1d]|[Pandas datetime - Lab][9-2d]|[Timeseries Autocorrelations - Lab][9-3d]|[ARIMA Models - Lab 2][9-4c]||
 
 [9-1a]: ./week09/day1_beta_binomial_model/bayesian-frequentist-comparison
 [9-1b]: ./week09/day1_beta_binomial_model/beta-binomial-model-lesson-lab
