@@ -267,8 +267,8 @@
 | ------------- | ------------------------------------------------ | -------------------------------------------- | --------------------------------------------------- | ----------------------------------------- | ------------------------------------------ |
 | 09:00 - 10:45 |[Big Data Intro - Lesson][10-1a]|[Spark Dataframes - Intro][10-2a]||||
 | 11:00 - 12:30 |[Spark Intro - Lesson][10-1b]|[Spark Dataframes - Lab 1][10-2b]||||
-| 13:30 - 15:00 |[Spark RDDs - Lab 1][10-1c]||Outcomes|[Spark Dataframes - Lab 2][10-2c]||
-| 15:15 - 17:00 |[Spark RDDs - Lab 2][10-1d]||Outcomes|[Python Scripting][10-2d]||
+| 13:30 - 15:00 |[Spark RDDs - Lab 1][10-1c]|[Spark Dataframes - Lab 2][10-2c]|Outcomes|||
+| 15:15 - 17:00 |[Spark RDDs - Lab 2][10-1d]|[Python Scripting][10-2d]|Outcomes|||
 
 [10-1a]: ./week10/day1_big_data_intro/big-data-intro-lesson
 [10-1b]: ./week10/day1_big_data_intro/spark-intro-lesson
