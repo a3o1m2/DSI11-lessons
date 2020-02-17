@@ -260,3 +260,33 @@
 
 [9-5a]: ./week09/day5_sarima_models/sarima-lesson
 [9-5b]: ./week09/day5_sarima_models/sarima-lab
+
+## Week 10: Big data, Spark and AWS
+
+| Session Time  | Day 1                                            | Day 2                                        | Day 3                                               | Day 4                                     | Day 5                                      |
+| ------------- | ------------------------------------------------ | -------------------------------------------- | --------------------------------------------------- | ----------------------------------------- | ------------------------------------------ |
+| 09:00 - 10:45 |[Big Data Intro - Lesson][10-1a]|||||
+| 11:00 - 12:30 |[Spark Intro - Lesson][10-1b]|||||
+| 13:30 - 15:00 |[Spark RDDs - Lab 1][10-1c]||Outcomes|||
+| 15:15 - 17:00 |[Spark RDDs - Lab 2][10-1d]||Outcomes|||
+
+[10-1a]: ./week10/day1_big_data_intro/big-data-intro-lesson
+[10-1b]: ./week10/day1_big_data_intro/spark-intro-lesson
+[10-1c]: ./week10/day1_big_data_intro/spark-rdds-lab-1
+[10-1d]: ./week10/day1_big_data_intro/spark-rdds-lab-2
+
+[10-2a]: ./week10/day2_spark_practice/spark-dataframes-lab-1
+[10-2b]: ./week10/day2_spark_practice/spark-dataframes-lab-2
+[10-2c]: ./week10/day2_spark_practice/spark-rdds-versus-dataframes-lab
+[10-2d]: ./week10/day2_spark_practice/python-scripting
+
+[10-3a]: ./week10/day3_spark_ml/spark-ml-lesson
+[10-3b]: ./week10/day3_spark_ml/spark-ml-lab
+
+[10-4a]: .
+[10-4b]: .
+[10-4c]: .
+[10-4d]: .
+
+[10-5a]: .
+[10-5b]: .
