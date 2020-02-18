@@ -265,8 +265,8 @@
 
 | Session Time  | Day 1                                            | Day 2                                        | Day 3                                               | Day 4                                     | Day 5                                      |
 | ------------- | ------------------------------------------------ | -------------------------------------------- | --------------------------------------------------- | ----------------------------------------- | ------------------------------------------ |
-| 09:00 - 10:45 |[Big Data Intro - Lesson][10-1a]|[Spark Dataframes - Intro][10-2a]||||
-| 11:00 - 12:30 |[Spark Intro - Lesson][10-1b]|[Spark Dataframes - Lab 1][10-2b]||||
+| 09:00 - 10:45 |[Big Data Intro - Lesson][10-1a]|[Spark Dataframes - Intro][10-2a]|[Spark ML - Lesson][10-3a]|||
+| 11:00 - 12:30 |[Spark Intro - Lesson][10-1b]|[Spark Dataframes - Lab 1][10-2b]|[Spark ML - Lab][10-3a]|||
 | 13:30 - 15:00 |[Spark RDDs - Lab 1][10-1c]|[Spark Dataframes - Lab 2][10-2c]|Outcomes|||
 | 15:15 - 17:00 |[Spark RDDs - Lab 2][10-1d]|[Python Scripting][10-2d]|Outcomes|||
 
