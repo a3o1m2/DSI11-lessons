@@ -1,0 +1,8 @@
+Personal AWS notes:
+
+1. EC2 is an instance of cloud space you've rented, you would generally not have relevant packages installed on this computer
+2. S3 simple storage service... bucket space for large files, you would normally have your python notebook write any outputs or read any inputs from this location.
+3. You can get conda install or pip install within a copy of your jupyter notebook, and also need to export any large files over to the cloud or to a bucket.
+4. Then copy over the jupyter notebook to the server.
+5. Then get the public ip address and run a https://[insert ip address] to then log into jupyter notebook on that server, and then you can run your notebook as you wish.
+6. You may have to ensure that any read / write is pointed to a bucket if you have large files (look in boto3 file in this folder for instructions how to connect notebook to bucket files)
