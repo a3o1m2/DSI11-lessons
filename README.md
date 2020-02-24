@@ -287,3 +287,17 @@
 
 [10-5a]: ./week10/day5_aws_cluster/AWS-EMR-Cluster
 [10-5b]: ./week10/day5_aws_cluster/Spark-Cluster-lab
+
+
+## Week 11: Support Vector Machines, Networks
+
+| Session Time  | Day 1                                            | Day 2                                        | Day 3                                               | Day 4                                     | Day 5                                      |
+| ------------- | ------------------------------------------------ | -------------------------------------------- | --------------------------------------------------- | ----------------------------------------- | ------------------------------------------ |
+| 09:00 - 10:45 |[Support Vector Machines - Lesson][11-1a]|||||
+| 11:00 - 12:30 |[Support Vector Machines - Lab 1][11-1b]|||||
+| 13:30 - 15:00 |[Support Vector Machines - Lab 2][11-1c]|||||
+| 15:15 - 17:00 |Project|||||
+
+[11-1a]: ./week11/day1_support_vector_machines/svm-lesson
+[11-1b]: ./week11/day1_support_vector_machines/svm-lab-1
+[11-1c]: ./week11/day1_support_vector_machines/svm-lab-2
