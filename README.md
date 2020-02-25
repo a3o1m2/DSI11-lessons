@@ -304,5 +304,5 @@
 
 [11-2a]: ./week11/day2_network_analysis/network-analysis-intro
 
-[11-3a]: ./week11/day3_network_analysis/network-robustness-and-commuties
+[11-3a]: ./week11/day3_network_analysis/network-robustness-and-communities
 [11-3b]: ./week11/day3_network_analysis/tube-network-lab
