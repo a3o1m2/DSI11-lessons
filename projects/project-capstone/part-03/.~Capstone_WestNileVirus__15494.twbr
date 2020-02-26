@@ -994,8 +994,8 @@
         </view>
         <style>
           <style-rule element='axis'>
-            <encoding attr='space' class='0' field='[federated.0agzqs61ieyxff1f9bdt917elycj].[avg:Longitude:qk]' field-type='quantitative' max='-9674569.8785900213' min='-9849051.2736806907' projection='EPSG:3857' range-type='fixed' scope='cols' type='space' />
-            <encoding attr='space' class='0' field='[federated.0agzqs61ieyxff1f9bdt917elycj].[avg:Latitude:qk]' field-type='quantitative' max='5191681.9157190463' min='5079469.764906018' projection='EPSG:3857' range-type='fixed' scope='rows' type='space' />
+            <encoding attr='space' class='0' field='[federated.0agzqs61ieyxff1f9bdt917elycj].[avg:Longitude:qk]' field-type='quantitative' max='-9718190.2273626886' min='-9805430.9249080233' projection='EPSG:3857' range-type='fixed' scope='cols' type='space' />
+            <encoding attr='space' class='0' field='[federated.0agzqs61ieyxff1f9bdt917elycj].[avg:Latitude:qk]' field-type='quantitative' max='5163628.8780157892' min='5107522.8026092751' projection='EPSG:3857' range-type='fixed' scope='rows' type='space' />
           </style-rule>
           <style-rule element='map-layer'>
             <format attr='enabled' id='b01002_001e' value='false' />
@@ -1201,7 +1201,7 @@
     </worksheet>
   </worksheets>
   <windows source-height='93'>
-    <window class='worksheet' maximized='true' name='Train: map'>
+    <window class='worksheet' name='Train: map'>
       <cards>
         <edge name='left'>
           <strip size='160'>
@@ -1233,7 +1233,7 @@
       </viewpoint>
       <simple-id uuid='{F2490489-A18B-460F-98E2-8F98BF819AF9}' />
     </window>
-    <window class='worksheet' name='Spray: map'>
+    <window class='worksheet' maximized='true' name='Spray: map'>
       <cards>
         <edge name='left'>
           <strip size='160'>
