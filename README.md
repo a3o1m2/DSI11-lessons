@@ -293,13 +293,16 @@
 
 | Session Time  | Day 1                                            | Day 2                                        | Day 3                                               | Day 4                                     | Day 5                                      |
 | ------------- | ------------------------------------------------ | -------------------------------------------- | --------------------------------------------------- | ----------------------------------------- | ------------------------------------------ |
-| 09:00 - 10:45 |[Support Vector Machines - Lesson][11-1a]|[Network Analysis Introduction][11-2a]||||
-| 11:00 - 12:30 |[Support Vector Machines - Lab 1][11-1b]|[Network Analysis Introduction][11-2a]||||
-| 13:30 - 15:00 |[Support Vector Machines - Lab 2][11-1c]|[Network Analysis Introduction][11-2a]||||
-| 15:15 - 17:00 |Project|Project||||
+| 09:00 - 10:45 |[Support Vector Machines - Lesson][11-1a]|[Network Analysis Introduction][11-2a]|[Network Robustness and Clustering][11-3a]|||
+| 11:00 - 12:30 |[Support Vector Machines - Lab 1][11-1b]|[Network Analysis Introduction][11-2a]|[Tube Network - Lab][11-3b]|||
+| 13:30 - 15:00 |[Support Vector Machines - Lab 2][11-1c]|[Network Analysis Introduction][11-2a]|[Tube Network - Lab][11-3b]|||
+| 15:15 - 17:00 |Project|Project|Project|||
 
 [11-1a]: ./week11/day1_support_vector_machines/svm-lesson
 [11-1b]: ./week11/day1_support_vector_machines/svm-lab-1
 [11-1c]: ./week11/day1_support_vector_machines/svm-lab-2
 
 [11-2a]: ./week11/day2_network_analysis/network-analysis-intro
+
+[11-3a]: ./week11/day3_network_analysis/network-robustness-and-communities
+[11-3b]: ./week11/day3_network_analysis/tube-network-lab
