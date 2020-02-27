@@ -293,10 +293,10 @@
 
 | Session Time  | Day 1                                            | Day 2                                        | Day 3                                               | Day 4                                     | Day 5                                      |
 | ------------- | ------------------------------------------------ | -------------------------------------------- | --------------------------------------------------- | ----------------------------------------- | ------------------------------------------ |
-| 09:00 - 10:45 |[Support Vector Machines - Lesson][11-1a]|[Network Analysis Introduction][11-2a]|[Network Robustness and Clustering][11-3a]|[Neural Networks - Intro][11-4a]||
-| 11:00 - 12:30 |[Support Vector Machines - Lab 1][11-1b]|[Network Analysis Introduction][11-2a]|[Tube Network - Lab][11-3b]|[Tensorflow Intro][11-4b]||
-| 13:30 - 15:00 |[Support Vector Machines - Lab 2][11-1c]|[Network Analysis Introduction][11-2a]|[Tube Network - Lab][11-3b]|[Tensorflow Intro][11-4b]||
-| 15:15 - 17:00 |Project|Project|Project|Project||
+| 09:00 - 10:45 |[Support Vector Machines - Lesson][11-1a]|[Network Analysis Introduction][11-2a]|[Network Robustness and Clustering][11-3a]|[Neural Networks - Intro][11-4a]|[Git branching][11-5a]|
+| 11:00 - 12:30 |[Support Vector Machines - Lab 1][11-1b]|[Network Analysis Introduction][11-2a]|[Tube Network - Lab][11-3b]|[Tensorflow Intro][11-4b]|[Git branching][11-5a]|
+| 13:30 - 15:00 |[Support Vector Machines - Lab 2][11-1c]|[Network Analysis Introduction][11-2a]|[Tube Network - Lab][11-3b]|[Tensorflow Intro][11-4b]|Project|
+| 15:15 - 17:00 |Project|Project|Project|Project|Project|
 
 [11-1a]: ./week11/day1_support_vector_machines/svm-lesson
 [11-1b]: ./week11/day1_support_vector_machines/svm-lab-1
@@ -309,3 +309,5 @@
 
 [11-4a]: ./week11/day4_neural_networks/neural-networks-intro
 [11-4b]: ./week11/day4_neural_networks/tensorflow-intro
+
+[11-5a]: .week11/day5_git_branching/git_branching
