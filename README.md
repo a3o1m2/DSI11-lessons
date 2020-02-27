@@ -310,4 +310,4 @@
 [11-4a]: ./week11/day4_neural_networks/neural-networks-intro
 [11-4b]: ./week11/day4_neural_networks/tensorflow-intro
 
-[11-5a]: .week11/day5_git_branching/git_branching
+[11-5a]: ./week11/day5_git_branching/git_branching
