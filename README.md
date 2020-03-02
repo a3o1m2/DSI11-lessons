@@ -311,3 +311,18 @@
 [11-4b]: ./week11/day4_neural_networks/tensorflow-intro
 
 [11-5a]: ./week11/day5_git_branching/git_branching
+
+
+## Week 12: Recommendation Systems, Capstone Presentations
+
+| Session Time  | Day 1                                            | Day 2                                        | Day 3                                               | Day 4                                     | Day 5                                      |
+| ------------- | ------------------------------------------------ | -------------------------------------------- | --------------------------------------------------- | ----------------------------------------- | ------------------------------------------ |
+| 09:00 - 10:45 |[Recommendation Systems - Intro][12-1a]|[Recommendation Systems - Lab][12-2a]|Project|Capstone Presentations|Capstone Presentations|
+| 11:00 - 12:30 |[Recommendation Systems - Models][12-1b]|[Recommendation Systems - Lab][12-2a]|Project|Capstone Presentations|Capstone Presentations|
+| 13:30 - 15:00 |Project|Project|Project|Capstone Presentations|Capstone Presentations|
+| 15:15 - 17:00 |Project|Project|Project|Capstone Presentations|Capstone Presentations|
+
+[12-1a]: ./week12/day1_recommendation_systems/recommendation-systems-intro
+[12-1b]: ./week12/day1_recommendation_systems/recommendation-systems-models
+
+[12-2a]: ./week12/day2_surprise_lab/surprise-lab
